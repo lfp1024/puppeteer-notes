@@ -6,7 +6,11 @@
   "dependencies": {
     "puppeteer": "^5.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src test",
