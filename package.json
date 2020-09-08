@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src test",
+    "lint-fix": "eslint src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfp1024/puppeteer-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfp1024/puppeteer-notes/issues"
+  },
+  "homepage": "https://github.com/lfp1024/puppeteer-notes#readme"
+}
