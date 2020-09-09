@@ -48,6 +48,7 @@
     "semi": [
       2,
       "never"
-    ]
+    ],
+    "no-shadow": 0
   }
 }
