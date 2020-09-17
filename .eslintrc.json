@@ -44,11 +44,16 @@
         "args": "none"
       }
     ],
+    // RondaFul add
     "no-console": 1,
-    "semi": [
-      2,
-      "never"
-    ],
-    "no-shadow": 0
+    // "semi": [
+    //   2,
+    //   "never"
+    // ],
+    "no-shadow": 0,
+    "no-restricted-syntax": 0,
+    "no-await-in-loop": 0,
+    "guard-for-in": 0,
+    "no-continue": 0
   }
 }
