@@ -2,6 +2,7 @@
 chrome-*
 data-*
 *.png
+file/
 
 
 # Logs
